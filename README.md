@@ -12,7 +12,7 @@
 Na co dzień dowożę kompletne produkty dla realnych biznesów: system POS i cateringowy
 (Forest), automatyzacje zamówień i raportów dla handlu, aplikacje iOS w Swift oraz
 infrastrukturę agentową wokół Claude Code — serwery MCP, routing kont
-(<i>ClaudeRoute</i>) i humanizację polskiego tekstu (<i>mcp-humanizer</i>).
+(<i>MaxSwitch</i>) i humanizację polskiego tekstu (<i>mcp-humanizer</i>).
 Większość tej pracy żyje w prywatnych repo klienckich; portfolio i kontakt niżej.
 
 <p align="center">
@@ -29,7 +29,7 @@ Większość tej pracy żyje w prywatnych repo klienckich; portfolio i kontakt n
 <details>
 <summary><b>Nad czym teraz pracuję</b></summary>
 
-- ⇄ **ClaudeRoute** — router kont Claude Code: watchdog systemd + serwer MCP, automatyczne przełączanie subskrypcji przy limitach
+- ⇄ **MaxSwitch** — router kont Claude Code: watchdog systemd + serwer MCP, automatyczne przełączanie subskrypcji przy limitach
 - 🧾 Automatyzacja zamówień i raportowania dla punktów sprzedaży sieci handlowej
 - 🌲 **Forest** — POS + catering: web (TypeScript/React) i iOS (Swift)
 - 🌐 **legitedev.pl** — cinematic premium portfolio (Astro/Next.js)
