@@ -5,19 +5,19 @@
   </picture>
 </p>
 
-<h1 align="center">Cześć, tu legiteDev 👋</h1>
+<h1 align="center">Cześć, tu ALUK. 👋</h1>
 
-<p align="center"><b>Buduję automatyzacje e-commerce, systemy POS i narzędzia AI — od backendu po iOS.</b></p>
+<p align="center"><b>Buduję automatyzacje e-commerce, systemy POS i narzędzia AI — od backendu po frontend..</b></p>
 
 Na co dzień dowożę kompletne produkty dla realnych biznesów: system POS i cateringowy
-(Forest), automatyzacje zamówień i raportów dla handlu, aplikacje iOS w Swift oraz
+(ForestPOS), automatyzacje zamówień i raportów dla handlu, aplikacje iOS w Swift oraz
 infrastrukturę agentową wokół Claude Code — serwery MCP, routing kont
 (<i>MaxSwitch</i>) i humanizację polskiego tekstu (<i>mcp-humanizer</i>).
 Większość tej pracy żyje w prywatnych repo klienckich; portfolio i kontakt niżej.
 
 <p align="center">
-  <a href="https://legitedev.pl"><img src="https://img.shields.io/badge/-legitedev.pl-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Strona legitedev.pl"></a>
-  <a href="mailto:legite1337@gmail.com"><img src="https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Napisz e-mail"></a>
+  <a href="https://madebyaluk.pl"><img src="https://img.shields.io/badge/-madebyaluk.pl-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Strona legitedev.pl"></a>
+  <a href="mailto:kontakt@madebyaluk.pl"><img src="https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Napisz e-mail"></a>
 </p>
 
 ## Stack
