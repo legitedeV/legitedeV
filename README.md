@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/legitedeV/legitedeV/raw/main/assets/hero-dark.svg">
-    <img src="https://github.com/legitedeV/legitedeV/raw/main/assets/hero-light.svg" alt="legiteDev — full-stack, automatyzacja, AI tooling; baner z animowanym gradientem" width="100%">
+    <img src="https://github.com/legitedeV/legitedeV/raw/main/assets/hero-light.svg" alt="madebyaluk.pl — full-stack, automatyzacja, AI tooling; baner z animowanym gradientem" width="100%">
   </picture>
 </p>
 
