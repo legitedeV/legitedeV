@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Концептуальні проєкти 
 
 ## Інструменти з відкритим кодом
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: використання лімітів Claude у терміналі, waybar і треї (порт на Linux).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-en.jpg" alt="UsageDock, панель з обліковими записами Claude і Codex та віджет робочого столу Windows" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, ліцензія MIT</b><br>
+      Ліміти Claude і Codex, накопичені скидання Codex і витрати на API Anthropic та OpenAI в одному нативному вікні та у віджеті поверх усіх вікон. П'ять мов інтерфейсу, світла й темна тема, облікові дані зашифровані локально (Windows DPAPI), без власного сервера й телеметрії. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Завантажити для Windows</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: автоматичне перемикання між підписками Claude Max при досягненні лімітів, watchdog systemd і сервер MCP (приватний репозиторій).
 - **mcp-humanizer**: сервер MCP для «олюднення» польського тексту без власного API (приватний репозиторій).
 
 ## Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Контакт: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">кошторис на madebyaluk.pl</a></p>

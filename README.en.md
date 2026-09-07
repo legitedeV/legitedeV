@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Concept projects by studio ALUK.
 
 ## Open source tools
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: Claude usage limits in the terminal, waybar and tray (Linux port).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-en.jpg" alt="UsageDock, dashboard with Claude and Codex accounts and the Windows desktop widget" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, MIT license</b><br>
+      Claude and Codex limits, banked Codex resets and Anthropic and OpenAI API spending in one native window and an always-on-top widget. Five interface languages, light and dark themes, credentials encrypted locally (Windows DPAPI), no server of its own and no telemetry. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Download for Windows</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: automatic switching between Claude Max subscriptions when limits hit, systemd watchdog and MCP server (private repo).
 - **mcp-humanizer**: MCP server for humanizing Polish text without its own API (private repo).
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Contact: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">get a quote at madebyaluk.pl</a></p>

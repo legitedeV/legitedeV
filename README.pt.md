@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Projetos conceituais do estúdio ALUK.
 
 ## Ferramentas open source
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: consumo dos limites do Claude no terminal, waybar e bandeja (port para Linux).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-en.jpg" alt="UsageDock, painel com contas Claude e Codex e o widget da área de trabalho do Windows" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, licença MIT</b><br>
+      Limites do Claude e do Codex, resets guardados do Codex e gastos das APIs da Anthropic e da OpenAI em uma janela nativa e em um widget sempre visível. Cinco idiomas de interface, tema claro e escuro, credenciais criptografadas localmente (Windows DPAPI), sem servidor próprio nem telemetria. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Baixar para Windows</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: troca automática entre assinaturas Claude Max ao atingir os limites, watchdog do systemd e servidor MCP (repositório privado).
 - **mcp-humanizer**: servidor MCP para humanizar texto em polonês sem API própria (repositório privado).
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Contato: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">peça um orçamento em madebyaluk.pl</a></p>

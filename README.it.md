@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Progetti concept dello studio ALUK.
 
 ## Strumenti open source
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: consumo dei limiti di Claude nel terminale, in waybar e nella tray (port per Linux).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-en.jpg" alt="UsageDock, dashboard con gli account Claude e Codex e il widget desktop di Windows" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, licenza MIT</b><br>
+      Limiti di Claude e Codex, reset Codex accumulati e spesa API di Anthropic e OpenAI in una finestra nativa e in un widget sempre in primo piano. Cinque lingue dell'interfaccia, tema chiaro e scuro, credenziali cifrate in locale (Windows DPAPI), nessun server proprio né telemetria. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Scarica per Windows</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: passaggio automatico tra abbonamenti Claude Max al raggiungimento dei limiti, watchdog systemd e server MCP (repo privato).
 - **mcp-humanizer**: server MCP per umanizzare testi in polacco senza API propria (repo privato).
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Contatti: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">richiedi un preventivo su madebyaluk.pl</a></p>

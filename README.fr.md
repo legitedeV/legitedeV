@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Projets concept du studio ALUK.
 
 ## Outils open source
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: consommation des limites Claude dans le terminal, waybar et la barre système (portage Linux).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-fr.jpg" alt="UsageDock, tableau de bord avec les comptes Claude et Codex et le widget de bureau Windows" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, licence MIT</b><br>
+      Limites Claude et Codex, resets Codex mis en réserve et dépenses API Anthropic et OpenAI dans une fenêtre native et un widget toujours au premier plan. Cinq langues d'interface, thème clair et sombre, identifiants chiffrés localement (Windows DPAPI), sans serveur propre ni télémétrie. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Télécharger pour Windows</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: bascule automatique entre abonnements Claude Max quand les limites sont atteintes, watchdog systemd et serveur MCP (dépôt privé).
 - **mcp-humanizer**: serveur MCP pour humaniser du texte polonais sans API propre (dépôt privé).
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Contact: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">demander un devis sur madebyaluk.pl</a></p>

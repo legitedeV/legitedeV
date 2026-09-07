@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Projekty koncepcyjne studia ALUK.
 
 ## Narzędzia open source
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: zużycie limitów Claude w terminalu, waybar i trayu (port na Linuksa).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-pl.jpg" alt="UsageDock, pulpit z kontami Claude i Codex oraz widżet na pulpicie Windows" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, licencja MIT</b><br>
+      Limity Claude i Codex, zapasowe resety Codexa i wydatki API Anthropic i OpenAI w jednym natywnym oknie oraz w widżecie zawsze na wierzchu. Pięć języków interfejsu, motyw jasny i ciemny, dane logowania szyfrowane lokalnie (Windows DPAPI), bez własnego serwera i telemetrii. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Pobierz dla Windows</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: automatyczne przełączanie subskrypcji Claude Max przy limitach, watchdog systemd i serwer MCP (repo prywatne).
 - **mcp-humanizer**: serwer MCP do humanizacji polskiego tekstu bez własnego API (repo prywatne).
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Kontakt: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">wycena na madebyaluk.pl</a></p>

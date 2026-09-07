@@ -78,14 +78,23 @@ Next.js、React、TypeScript、Tailwind。ALUK 工作室的概念项目。
 
 ## 开源工具
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: 在终端、waybar 和托盘中查看 Claude 用量限制（Linux 移植版）。
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-en.jpg" alt="UsageDock，包含 Claude 与 Codex 账户的仪表盘和 Windows 桌面小组件" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows、C# / WPF、.NET 8、MIT 许可</b><br>
+      在一个原生窗口和始终置顶的小组件中查看 Claude 与 Codex 的用量限制、Codex 的储备重置以及 Anthropic 与 OpenAI 的 API 支出。五种界面语言，明暗主题，凭据在本地加密（Windows DPAPI），无自有服务器，无遥测。 <a href="https://github.com/legitedeV/UsageDock/releases/latest">下载 Windows 版</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: 达到限制时自动切换 Claude Max 订阅，systemd 看门狗与 MCP 服务器（私有仓库）。
 - **mcp-humanizer**: 无需自有 API 即可将波兰语文本“去 AI 化”的 MCP 服务器（私有仓库）。
 
 ## 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">联系方式: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">在 madebyaluk.pl 获取报价</a></p>

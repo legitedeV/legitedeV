@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Proyectos conceptuales del estudio ALUK.
 
 ## Herramientas open source
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: consumo de límites de Claude en la terminal, waybar y la bandeja (port para Linux).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-es.jpg" alt="UsageDock, panel con cuentas de Claude y Codex y el widget de escritorio de Windows" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, licencia MIT</b><br>
+      Límites de Claude y Codex, resets guardados de Codex y gasto de las API de Anthropic y OpenAI en una ventana nativa y en un widget siempre visible. Cinco idiomas de interfaz, tema claro y oscuro, credenciales cifradas localmente (Windows DPAPI), sin servidor propio ni telemetría. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Descargar para Windows</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: cambio automático entre suscripciones Claude Max al alcanzar los límites, watchdog de systemd y servidor MCP (repo privado).
 - **mcp-humanizer**: servidor MCP para humanizar texto en polaco sin API propia (repo privado).
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Contacto: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">pide presupuesto en madebyaluk.pl</a></p>

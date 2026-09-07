@@ -78,14 +78,23 @@ Next.js, React, TypeScript, Tailwind. Konzeptprojekte des Studios ALUK.
 
 ## Open-Source-Werkzeuge
 
-- **[Usage4Claude-LINUX](https://github.com/legitedeV/Usage4Claude-LINUX)**: Claude-Nutzungslimits im Terminal, in Waybar und im Tray (Linux-Port).
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/legitedeV/UsageDock"><img src="https://github.com/legitedeV/legitedeV/raw/main/assets/usagedock-de.jpg" alt="UsageDock, Dashboard mit Claude- und Codex-Konten und das Windows-Desktop-Widget" width="100%"></a>
+      <b><a href="https://github.com/legitedeV/UsageDock">UsageDock</a> · Windows, C# / WPF, .NET 8, MIT-Lizenz</b><br>
+      Claude- und Codex-Limits, gesparte Codex-Resets und API-Ausgaben bei Anthropic und OpenAI in einem nativen Fenster und einem Widget, das immer im Vordergrund bleibt. Fünf Sprachen, helles und dunkles Design, Zugangsdaten lokal verschlüsselt (Windows DPAPI), kein eigener Server, keine Telemetrie. <a href="https://github.com/legitedeV/UsageDock/releases/latest">Für Windows herunterladen</a>.
+    </td>
+  </tr>
+</table>
+
 - **MaxSwitch**: automatischer Wechsel zwischen Claude-Max-Abos bei erreichten Limits, systemd-Watchdog und MCP-Server (privates Repo).
 - **mcp-humanizer**: MCP-Server zur Humanisierung polnischer Texte ohne eigene API (privates Repo).
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, Python, Bash, Docker, Nginx, Linux, Git">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,threejs,cs,dotnet,python,bash,docker,nginx,linux,git" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Three.js, C#, .NET, Python, Bash, Docker, Nginx, Linux, Git">
 </p>
 
 <p align="center">Kontakt: <a href="mailto:hello@madebyaluk.pl">hello@madebyaluk.pl</a> · <a href="https://madebyaluk.pl/kontakt">Angebot auf madebyaluk.pl</a></p>
